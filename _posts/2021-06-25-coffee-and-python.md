@@ -1,11 +1,3 @@
-
-coffee_and_python.txt
-
-Page
-1
-/
-1
-100%
 ---
 layout: post
 title: Coffee & Python
