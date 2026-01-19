@@ -5,14 +5,6 @@ image: "/posts/coffee_python.jpg"
 tags: [Python, Coffee]
 ---
 
-# My first project
-## is all about
-### how much
-#### I LOVE
-##### Python & Coffee!
-
----
-
 Firstly, I love Python so much, here is some code!
 
 ```
